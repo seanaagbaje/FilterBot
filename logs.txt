@@ -1,0 +1,4 @@
+2024-07-18T01:41:48.001Z - Blocked user .ab_w (921929620004167691).
+2024-07-18T01:53:57.965Z - Added kellyohgee (643686747716190208) to the whitelist.
+2024-07-18T02:05:54.778Z - Blocked user millionairemills (837028979461455893).
+2024-07-18T02:24:11.193Z - Kicked kellyohgee0010 for having a prohibited username.
