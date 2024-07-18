@@ -1,7 +1,18 @@
 {
+  "name": "filter-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to filter and kick users with specific usernames.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
-    "@discordjs/rest": "^2.3.0",
-    "discord-api-types": "^0.37.92",
-    "discord.js": "^14.15.3"
-  }
+    "discord.js": "^14.6.0",
+    "fs": "0.0.1-security"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Sean Agbaje",
+  "license": "MIT"
 }
